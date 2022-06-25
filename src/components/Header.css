@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    height: 17vh;
+  }
+  
+  .header-title {
+    margin: 0;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+  }
+  
+  .header-subtitle{
+    margin: 0 0 10px 0;
+    font-weight: 500;
+  }
+  
+  .header-dot{
+    color: orange;
+    margin: 0;
+  }
+   
+.isi {
+    margin-bottom: -12px;
+}
